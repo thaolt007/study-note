@@ -1,0 +1,6 @@
+Cau hinh:
+cd C:\DevPrograms\MongoDB\bin
+mongod.exe --config G:\MongoStore\config.txt
+
+Chay
+net start MongoDB
